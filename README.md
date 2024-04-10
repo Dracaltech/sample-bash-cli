@@ -10,7 +10,7 @@ Run script
 ```
 
 ## Sample output
-<img src="https://github.com/Dracaltech/sample-bash-vcp/assets/1357711/a97d661d-786c-4bad-883f-5527d5196fc7" width=400 />
+<img src="https://github.com/Dracaltech/sample-bash-cli/assets/1357711/b1349cbd-0ed2-4743-ab66-d6aa6f12c017" width=400 />
 
 ```
 Ξ dracal/sample-bash-cli git:(main) ▶ ./main.sh
